@@ -221,4 +221,3 @@ Thank you for considering contributing to DocsGPT! 🙏
 
 ## Questions/collaboration
 Feel free to join our [Discord](https://discord.gg/vN7YFfdMpj). We're very friendly and welcoming to new contributors, so don't hesitate to reach out.
-# Thank you so much for considering to contributing DocsGPT!🙏
